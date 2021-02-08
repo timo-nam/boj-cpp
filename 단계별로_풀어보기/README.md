@@ -4,7 +4,7 @@
 
 ### 1. 입출력과 사칙연산
 
-- **2557 Hello World:** 빠른 입출력, nullptr(C++11 ~) vs NULL(~ C++98)
+- **2557 Hello World:** 빠른 입출력, nullptr(C++11 &#126;) vs NULL(&#126; C++98)
 
 ### 3. for문
 
