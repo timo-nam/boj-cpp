@@ -19,4 +19,8 @@
 - **8958 OX퀴즈:** `cin.ignore()`, `getline(cin, str)`
 - **4344 평균은 넘겠지:** 배열형 파라미터는 포인터, `<cstdio>`, 탈출문자열 `%%`
 
+### 5. 함수
+
+- **15596 정수 N개의 합:** `vector<int>::iterator iter = v.begin()`
+
 ## 논리적 주요 문제
